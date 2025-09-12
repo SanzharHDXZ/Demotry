@@ -11,7 +11,7 @@ export default function App() {
           Click me
         </button>
       ) : (
-        <h1 style={styles.text}>Good luck!</h1>
+        <h1 style={styles.text}>Bye!Good luck!</h1>
       )}
     </div>
   );
